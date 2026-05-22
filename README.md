@@ -65,12 +65,6 @@ My journey in Computer Engineering has led me to develop a deep passion for cybe
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7BSICD17NX.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_2-A32A29?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
     </a>
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7PZ8JSQZPB.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-A32A29?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-    </a>
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7BSICD17NX.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_2-A32A29?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-    </a>
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DOKE3FMMNV.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-TryHackMe_Cyber_Defense-A32A29?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
     </a>
