@@ -10,7 +10,7 @@ My journey in Computer Engineering has led me to develop a deep passion for cybe
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM & Endpoint Telemetry Analysis          | <a href="https://github.com/joaopferreira01/Splunk-SOC-Homelab/tree/main">Splunk SOC Homelab</a>|
-| Active Directory Security & Monitoring | <a href="https://google.com">Active Directory Security Lab</a>|
+| Active Directory Security & Monitoring | <a href="https://github.com/joaopferreira01/Active-Directory-Project">Active Directory Security Lab</a>|
 
 
 ## Tools & Technologies
@@ -78,4 +78,4 @@ My journey in Computer Engineering has led me to develop a deep passion for cybe
 
 ## Projects
 - <a href="https://github.com/joaopferreira01/Splunk-SOC-Homelab/tree/main">Splunk SOC Homelab</a>
-- Active Directory Security Lab
+- <a href="https://github.com/joaopferreira01/Active-Directory-Project">Active Directory Security Lab</a>
