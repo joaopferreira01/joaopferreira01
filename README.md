@@ -1,7 +1,7 @@
 # Hello, I'm João Ferreira
 <a href="https://www.linkedin.com/in/jo%C3%A3oprferreirauadsaijdisad"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-As a soon-to-be Master's graduate in Computer Engineering and Telematics, my passion for problem-solving naturally drew me to the field of Cybersecurity.
+MSc in Computer Engineering and Informatics from the University of Aveiro. My passion for problem-solving naturally drew me to the field of Cybersecurity.
 
 ## Objective
 My journey in Computer Engineering has led me to develop a deep passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
